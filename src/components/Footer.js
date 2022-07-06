@@ -10,7 +10,7 @@ export default function Footer() {
           </div>
 
           <div class="col-lg-4">
-            <h5 class="text-white">Section</h5>
+            <h5 class="text-white">Dreamz</h5>
             <ul class="nav flex-column">
               <li class="nav-item mb-2">
                 <a href="#" class="nav-link text-muted p-0 ">

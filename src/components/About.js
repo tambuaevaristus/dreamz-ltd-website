@@ -13,7 +13,7 @@ export default function About() {
       </p>
     
       <div class="d-md-flex justify-content-between my-5 py-3">
-        <div class="card" style={{ width: 250 }}>
+        <div class="card mx-1 col-md-4 my-3" >
           <div class="card-body">
             <h5 class="card-title text-primary ">DREAMZ LTD</h5>
             <p class="card-text">
@@ -23,7 +23,7 @@ export default function About() {
             </p>
           </div>
         </div>
-        <div class="card" style={{ width: 250 }}>
+        <div class="card  mx-1 col-md-4 my-3" >
           <div class="card-body">
             <h5 class="card-title text-primary ">VISION</h5>
             <p class="card-text">
@@ -33,7 +33,7 @@ export default function About() {
           </div>
         </div>
 
-        <div class="card text-center" style={{ width: 250 }}>
+        <div class="card text-center  mx-1 col-md-4 my-3">
           <div class="card-body">
             <h5 class="card-title text-primary">MISSION</h5>
             <p class="card-text">
