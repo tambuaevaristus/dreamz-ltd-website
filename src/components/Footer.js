@@ -6,7 +6,7 @@ export default function Footer() {
       <footer class="py-5 container">
         <div class="row">
           <div class="col-lg-4">
-            <img src="/assets/logo2.png" class="img-fluid"  alt="" />
+            <img src="/assets/logo1.png" class="img-fluid"  alt="" />
           </div>
 
           <div class="col-lg-4">
