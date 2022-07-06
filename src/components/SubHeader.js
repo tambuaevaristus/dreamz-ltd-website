@@ -6,7 +6,7 @@ export default function SubHeader() {
     <div>
       <div class="">
         <img
-          src="/assets/aboutBanner.jpg"
+          src="https://www.businesslist.co.cm/img/cats/logistics.jpg"
         //   width="100%"
           style={{
             height: "300px",

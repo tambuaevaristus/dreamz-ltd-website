@@ -33,7 +33,7 @@ export default function Banner() {
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img
-              src="/assets/banner.jpg"
+              src="https://www.itcilo.org/sites/default/files/courses/cover-images/A9714536.jpeg"
               height="700px"
               class="d-block w-100"
               alt="..."
