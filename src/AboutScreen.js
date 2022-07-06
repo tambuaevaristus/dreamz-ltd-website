@@ -22,7 +22,7 @@ Still in this survey we found out that people generally want to order items or b
       <p>Dreamz now came up with the solution to these problems by making those dreams and desire of the general public a reality with their numerous quality services to help manage time and save cash.</p>
 
       <div class="d-md-flex justify-content-between my-5 py-3">
-        <div class="card" style={{ width: 250 }}>
+      <div class="card text-center  mx-1 col-md-4 my-3">
           <div class="card-body">
             <h5 class="card-title text-primary ">DREAMZ LTD</h5>
             <p class="card-text">
@@ -32,7 +32,7 @@ Still in this survey we found out that people generally want to order items or b
             </p>
           </div>
         </div>
-        <div class="card" style={{ width: 250 }}>
+        <div class="card text-center  mx-1 col-md-4 my-3">
           <div class="card-body">
             <h5 class="card-title text-primary ">VISION</h5>
             <p class="card-text">
@@ -42,7 +42,7 @@ Still in this survey we found out that people generally want to order items or b
           </div>
         </div>
 
-        <div class="card text-center" style={{ width: 250 }}>
+        <div class="card text-center  mx-1 col-md-4 my-3">
           <div class="card-body">
             <h5 class="card-title text-primary">MISSION</h5>
             <p class="card-text">
